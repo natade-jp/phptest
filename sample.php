@@ -19,4 +19,6 @@ $map2->put("test4", 1234);
 $map->putAll($map2);
 echo $map;
 
+echo "nyoe"
+
 ?>
